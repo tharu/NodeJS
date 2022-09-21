@@ -29,4 +29,4 @@ const mymath=(function(){
 
             })();
 
-module.exports.math=mymath;
+module.exports=mymath;
